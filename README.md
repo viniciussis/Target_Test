@@ -2,6 +2,10 @@
 
 Resoluções de alguns exercícios para o teste tecnico da Target...
 
+[Questão 01](questao1.go)
+[Questão 02](questao2.go)
+[Questão 05](questao5.go)
+
 ## Contribuindo
 
 Sinta-se à vontade para contribuir ou abrir issues para sugestões e correções de bugs. Pull requests são bem-vindos!
